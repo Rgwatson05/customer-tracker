@@ -1,3 +1,4 @@
+Add customer tracker assignment
 // Create customer records
 let customers = [
     {
