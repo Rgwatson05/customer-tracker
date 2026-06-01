@@ -29,10 +29,10 @@ customers.push({
 // Remove the first customer
 customers.shift();
 
-// Update a customer's email
+// Update a customer's email (Sarah is now at index 0 after shift)
 customers[0].email = "sarah.johnson2026@email.com";
 
-// Add a new purchase
+// Add a new purchase to Michael (now at index 1 after shift)
 customers[1].purchases.push("Keyboard");
 
 // Display customer information
